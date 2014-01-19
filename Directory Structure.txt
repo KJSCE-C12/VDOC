@@ -1,0 +1,14 @@
+Documentation:
+=============
+All Documentation: /Docs/.*
+
+Build:
+======
+Android Build files : /Build/Android/.*
+
+Source:
+=======
+Cloud Source Code (Incl Google App Engine): /Cloud/.*
+Cloudlet Source Code: /Cloudlet/.*
+Client Source Code: /Client/.*
+	-Android: /Client/Android/.*
